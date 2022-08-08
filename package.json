@@ -19,5 +19,8 @@
     "type": "git",
     "url": "git+https://github.com/shikuntian/web-audio-recorder-js.git"
   },
-  "version": "0.0.2"
+  "version": "0.0.2",
+  "dependencies": {
+    "uglify-js": "^2.6.4"
+  }
 }
